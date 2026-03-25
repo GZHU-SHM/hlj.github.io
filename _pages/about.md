@@ -35,10 +35,8 @@ My Google Scholar profile:
 </a>
 
 # 🔥 News
-- *2026.03*: Personal academic homepage is launched.
-- *2026.03*: Google Scholar profile and academic links are integrated into the website.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;🎉🎉 Personal academic homepage is launched.
+- *2026.03*: &nbsp;🎉🎉 Google Scholar profile and academic links are integrated into the website.
 
 # 📝 Publications 
 
