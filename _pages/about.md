@@ -56,7 +56,7 @@ My Google Scholar profile:
 - *2022.09-Present*, Ph.D. student, Structural Engineering, Guangzhou University
 
 # 💬 Academic Conferences
-- *2025.12*, 1st International Conference on Infrastructural Monitoring and Protection (CIMP2025-1). \| [\[video\]](https://github.com/)
+- *2025.12*, 1st International Conference on Infrastructural Monitoring and Protection (CIMP1-2025). \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2021.04 - 2021.05*, Guangdong Jianke Traffic Engineering Quality Inspection Co., Ltd, Guangzhou, China.
