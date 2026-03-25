@@ -36,7 +36,6 @@ My Google Scholar profile:
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Personal academic homepage is launched.
-- *2026.03*: &nbsp;🎉🎉 Google Scholar profile and academic links are integrated into the website.
 
 # 📝 Publications 
 
@@ -51,16 +50,13 @@ My Google Scholar profile:
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12* Best Paper Award, 1st International Conference on Infrastructural Monitoring and Protection (CIMP1-2025) 
 
 # 📖 Educations
-- *Present*, Guangzhou University
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09-Present*, Ph.D. student, Structural Engineering, Guangzhou University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Conferences
+- *2025.12*, 1st International Conference on Infrastructural Monitoring and Protection (CIMP2025-1). \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.04 - 2021.05*, Guangdong Jianke Traffic Engineering Quality Inspection Co., Ltd, Guangzhou, China.
