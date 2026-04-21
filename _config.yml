@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linjie HUANG | Academic Homepage"
-description              : "Personal academic website of Linjie HUANG, Guangzhou University. Research interests include surface damage detection, computer vision, and deep learning. "
+description              : "Linjie HUANG, Guangzhou University. Research interests include surface damage detection, computer vision, and deep learning. "
 repository               : "GZHU-SHM/hlj.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/GZHU-SHM"
   google_plus      :
   keybase          :
   instagram        :
